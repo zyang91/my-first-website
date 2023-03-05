@@ -3,6 +3,10 @@ My personal website
 
 ## Education Background
 
+```python
+print("hello world")
+```
+
 My name is Zhanchao Yang. I am an undergraduate student in the [Department of Geography](https://www.binghamton.edu/geography/) at [Binghamton University](https://www.binghamton.edu/), NY.
 
 
