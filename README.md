@@ -1,5 +1,4 @@
 # zyang91.github.io
-This is a test personal website
 
 My personal website
 
